@@ -7,3 +7,6 @@ cov.out
 node_modules
 vendor/
 .envrc
+
+dist/
+.idea/
